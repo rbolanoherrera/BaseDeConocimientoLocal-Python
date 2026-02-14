@@ -1,0 +1,6 @@
+PyPDF2
+scikit-learn >= 1.4.0
+sentence-transformers
+faiss-cpu
+numpy
+groq
